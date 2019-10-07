@@ -7,5 +7,7 @@
     </head>
     <body>
         <?php include('components/header.php'); ?>
+        <?php include('components/create_room_form.php'); ?>
+        <?php include('components/rooms.php'); ?>
     </body>
 </html>
