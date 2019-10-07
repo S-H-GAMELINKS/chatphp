@@ -8,8 +8,10 @@
     <body>
         <?php include('components/header.php'); ?>
         <?php include('components/jumbotron.php'); ?>
-        <?php include('components/create_room_form.php'); ?>
-        <?php include('components/rooms.php'); ?>
+        <div class="container">
+            <?php include('components/create_room_form.php'); ?>
+            <?php include('components/rooms.php'); ?>
+        </div>
         <?php include('components/footer.php'); ?>
     </body>
 </html>
