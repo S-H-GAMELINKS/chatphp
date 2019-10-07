@@ -9,7 +9,7 @@
     <body>
         <?php include('components/header.php'); ?>
         <?php include('components/jumbotron.php'); ?>
-        <div class="container">
+        <div class="container mb-5">
             <?php include('components/create_room_form.php'); ?>
             <?php include('components/rooms.php'); ?>
         </div>
