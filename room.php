@@ -8,7 +8,7 @@
     </head>
     <body>
         <?php include('components/header.php'); ?>
-        <div class="container">
+        <div class="container mb-5">
             <?php include('components/room_name.php'); ?>
             <?php include('components/talks.php'); ?>
             <?php include('components/create_talk_form.php'); ?>
