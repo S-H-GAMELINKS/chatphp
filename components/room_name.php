@@ -1,5 +1,5 @@
-<h1>
+<div class="text-center h2 mt-5 mb-5">
     <?php 
-        echo $_REQUEST['id'] . " : " . $_REQUEST['name']
+        echo "チャットルーム : ". $_REQUEST['name'];
     ?>
-</h1>
+</div>
