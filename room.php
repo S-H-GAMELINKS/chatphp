@@ -8,5 +8,7 @@
     <body>
         <?php include('components/header.php'); ?>
         <?php include('components/room_name.php'); ?>
+        <?php include('components/talks.php'); ?>
+        <?php include('components/create_talk_form.php'); ?>
     </body>
 </html>
