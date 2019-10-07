@@ -6,3 +6,5 @@
     </div>
     <button type="submit" class="btn btn-outline-danger">作成</button>
 </form>
+
+<a href="/" class="btn btn-primary">トップページに戻る</a>
